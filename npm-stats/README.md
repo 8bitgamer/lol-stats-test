@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/Xv2xvly.png" alt="npm-stats" title="npm-stats.org" />
+  <img src="http://na.leagueoflegends.com/profiles/lol2_profile/themes/custom/lolt/img/lol_logo.png" alt="lol-stats"/>
 </p>
 
-# npm-stats
+# lol-stats
 
 > Generate beautiful charts from your npm package statistics
+(based on npm-stats)
 
 ## Visit
 
